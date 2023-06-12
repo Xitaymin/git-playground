@@ -1,5 +1,5 @@
 object Greeter {
-    fun sayHello() {
-        println("Hello, my friend!")
+    fun sayHello(name: String) {
+        println("Hello, $name!")
     }
 }
