@@ -1,5 +1,5 @@
 object Greeter {
     fun sayHello() {
-        println("Hello, world!")
+        println("Hello, my friend!")
     }
 }
