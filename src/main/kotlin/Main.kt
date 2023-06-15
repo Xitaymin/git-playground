@@ -1,6 +1,5 @@
 fun main() {
     Greeter.sayHello("my friends")
-    Greeter.sayGoodbye("my friends")
     println(calculate(1, 2))
 }
 
